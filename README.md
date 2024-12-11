@@ -59,7 +59,7 @@ const { dateTan, dateTanParse } = require("dateTan");
 
 ## Contribution
 
-If you would like to contribute on the locales.json or holidays.json, feel free to open a pull request on [github]() with the additions or whole file. That would be appreciated 🤝!
+If you would like to contribute on the locales.json or holidays.json, feel free to open a pull request on [github](https://github.com/Luis-Tanese/dateTan) with the additions or whole file. That would be appreciated 🤝!
 
 ---
 
