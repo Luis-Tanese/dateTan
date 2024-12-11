@@ -18,10 +18,14 @@
 
 ## Installation
 
-Make sure to install any required dependencies and load the `dateTan` module in your project.
+This module doesnt have any dependencies, just make sure to load the `dateTan` module in your project.
 
 ```bash
 npm install dateTan
+```
+then import it into your project using:
+```javascript
+const { dateTan, dateTanParse } = require("dateTan");
 ```
 
 ---
