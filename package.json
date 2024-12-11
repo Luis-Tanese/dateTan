@@ -1,0 +1,13 @@
+{
+  "name": "datetan",
+  "version": "1.0.3",
+  "main": "dateTan.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "description": "Just a simple date string formatter made with js"
+}
+

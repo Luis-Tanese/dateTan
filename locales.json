@@ -1,0 +1,587 @@
+{
+    "en-us": {
+        "days": ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"],
+        "shortDays": ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"],
+        "months": [
+            "January", "February", "March", "April", "May", "June", "July",
+            "August", "September", "October", "November", "December"
+        ],
+        "shortMonths": ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"]
+    },
+    "pt-br": {
+        "days": ["domingo", "segunda-feira", "terça-feira", "quarta-feira", "quinta-feira", "sexta-feira", "sábado"],
+        "shortDays": ["dom", "seg", "ter", "qua", "qui", "sex", "sáb"],
+        "months": [
+            "janeiro", "fevereiro", "março", "abril", "maio", "junho", "julho",
+            "agosto", "setembro", "outubro", "novembro", "dezembro"
+        ],
+        "shortMonths": ["jan", "fev", "mar", "abr", "mai", "jun", "jul", "ago", "set", "out", "nov", "dez"]
+    },
+    "es-es": {
+        "days": ["domingo", "lunes", "martes", "miércoles", "jueves", "viernes", "sábado"],
+        "shortDays": ["dom", "lun", "mar", "mié", "jue", "vie", "sáb"],
+        "months": [
+            "enero", "febrero", "marzo", "abril", "mayo", "junio", "julio",
+            "agosto", "septiembre", "octubre", "noviembre", "diciembre"
+        ],
+        "shortMonths": ["ene", "feb", "mar", "abr", "may", "jun", "jul", "ago", "sep", "oct", "nov", "dic"]
+    },
+    "fr-fr": {
+        "days": ["dimanche", "lundi", "mardi", "mercredi", "jeudi", "vendredi", "samedi"],
+        "shortDays": ["dim", "lun", "mar", "mer", "jeu", "ven", "sam"],
+        "months": [
+            "janvier", "février", "mars", "avril", "mai", "juin", "juillet",
+            "août", "septembre", "octobre", "novembre", "décembre"
+        ],
+        "shortMonths": ["janv", "févr", "mars", "avr", "mai", "juin", "juil", "août", "sept", "oct", "nov", "déc"]
+    },
+    "de-de": {
+        "days": ["Sonntag", "Montag", "Dienstag", "Mittwoch", "Donnerstag", "Freitag", "Samstag"],
+        "shortDays": ["So", "Mo", "Di", "Mi", "Do", "Fr", "Sa"],
+        "months": [
+            "Januar", "Februar", "März", "April", "Mai", "Juni", "Juli",
+            "August", "September", "Oktober", "November", "Dezember"
+        ],
+        "shortMonths": ["Jan", "Feb", "Mär", "Apr", "Mai", "Jun", "Jul", "Aug", "Sep", "Okt", "Nov", "Dez"]
+    },
+    "it-it": {
+        "days": ["domenica", "lunedì", "martedì", "mercoledì", "giovedì", "venerdì", "sabato"],
+        "shortDays": ["dom", "lun", "mar", "mer", "gio", "ven", "sab"],
+        "months": [
+            "gennaio", "febbraio", "marzo", "aprile", "maggio", "giugno", "luglio",
+            "agosto", "settembre", "ottobre", "novembre", "dicembre"
+        ],
+        "shortMonths": ["gen", "feb", "mar", "apr", "mag", "giu", "lug", "ago", "set", "ott", "nov", "dic"]
+    },
+    "ru-ru": {
+        "days": ["воскресенье", "понедельник", "вторник", "среда", "четверг", "пятница", "суббота"],
+        "shortDays": ["вс", "пн", "вт", "ср", "чт", "пт", "сб"],
+        "months": [
+            "январь", "февраль", "март", "апрель", "май", "июнь", "июль",
+            "август", "сентябрь", "октябрь", "ноябрь", "декабрь"
+        ],
+        "shortMonths": ["янв", "фев", "мар", "апр", "май", "июн", "июл", "авг", "сен", "окт", "ноя", "дек"]
+    },
+    "zh-cn": {
+        "days": ["星期日", "星期一", "星期二", "星期三", "星期四", "星期五", "星期六"],
+        "shortDays": ["日", "一", "二", "三", "四", "五", "六"],
+        "months": [
+            "一月", "二月", "三月", "四月", "五月", "六月", "七月",
+            "八月", "九月", "十月", "十一月", "十二月"
+        ],
+        "shortMonths": ["1月", "2月", "3月", "4月", "5月", "6月", "7月", "8月", "9月", "10月", "11月", "12月"]
+    },
+    "ja-jp": {
+        "days": ["日曜日", "月曜日", "火曜日", "水曜日", "木曜日", "金曜日", "土曜日"],
+        "shortDays": ["日", "月", "火", "水", "木", "金", "土"],
+        "months": [
+            "1月", "2月", "3月", "4月", "5月", "6月", "7月",
+            "8月", "9月", "10月", "11月", "12月"
+        ],
+        "shortMonths": ["1月", "2月", "3月", "4月", "5月", "6月", "7月", "8月", "9月", "10月", "11月", "12月"]
+    },
+    "ko-kr": {
+        "days": ["일요일", "월요일", "화요일", "수요일", "목요일", "금요일", "토요일"],
+        "shortDays": ["일", "월", "화", "수", "목", "금", "토"],
+        "months": [
+            "1월", "2월", "3월", "4월", "5월", "6월", "7월",
+            "8월", "9월", "10월", "11월", "12월"
+        ],
+        "shortMonths": ["1월", "2월", "3월", "4월", "5월", "6월", "7월", "8월", "9월", "10월", "11월", "12월"]
+    },
+    "ar-sa": {
+        "days": ["الأحد", "الاثنين", "الثلاثاء", "الأربعاء", "الخميس", "الجمعة", "السبت"],
+        "shortDays": ["أحد", "اثن", "ثلا", "أرب", "خم", "جم", "سب"],
+        "months": [
+            "يناير", "فبراير", "مارس", "أبريل", "مايو", "يونيو", "يوليو",
+            "أغسطس", "سبتمبر", "أكتوبر", "نوفمبر", "ديسمبر"
+        ],
+        "shortMonths": ["ينا", "فبر", "مار", "أبر", "ماي", "يون", "يول", "أغس", "سبت", "أكت", "نوف", "ديس"]
+    },
+    "hi-in": {
+        "days": ["रविवार", "सोमवार", "मंगलवार", "बुधवार", "गुरुवार", "शुक्रवार", "शनिवार"],
+        "shortDays": ["रवि", "सोम", "मंगल", "बुध", "गुरु", "शुक्र", "शनि"],
+        "months": [
+            "जनवरी", "फरवरी", "मार्च", "अप्रैल", "मई", "जून", "जुलाई",
+            "अगस्त", "सितंबर", "अक्टूबर", "नवंबर", "दिसंबर"
+        ],
+        "shortMonths": ["जन", "फर", "मार", "अप्र", "मई", "जून", "जुल", "अग", "सित", "अक्ट", "नव", "दिस"]
+    },
+    "nl-nl": {
+        "days": ["zondag", "maandag", "dinsdag", "woensdag", "donderdag", "vrijdag", "zaterdag"],
+        "shortDays": ["zo", "ma", "di", "wo", "do", "vr", "za"],
+        "months": [
+            "januari", "februari", "maart", "april", "mei", "juni", "juli",
+            "augustus", "september", "oktober", "november", "december"
+        ],
+        "shortMonths": ["jan", "feb", "mrt", "apr", "mei", "jun", "jul", "aug", "sep", "okt", "nov", "dec"]
+    },
+    "sv-se": {
+        "days": ["söndag", "måndag", "tisdag", "onsdag", "torsdag", "fredag", "lördag"],
+        "shortDays": ["sön", "mån", "tis", "ons", "tor", "fre", "lör"],
+        "months": [
+            "januari", "februari", "mars", "april", "maj", "juni", "juli",
+            "augusti", "september", "oktober", "november", "december"
+        ],
+        "shortMonths": ["jan", "feb", "mar", "apr", "maj", "jun", "jul", "aug", "sep", "okt", "nov", "dec"]
+    },
+    "no-no": {
+        "days": ["søndag", "mandag", "tirsdag", "onsdag", "torsdag", "fredag", "lørdag"],
+        "shortDays": ["søn", "man", "tir", "ons", "tor", "fre", "lør"],
+        "months": [
+            "januar", "februar", "mars", "april", "mai", "juni", "juli",
+            "august", "september", "oktober", "november", "desember"
+        ],
+        "shortMonths": ["jan", "feb", "mar", "apr", "mai", "jun", "jul", "aug", "sep", "okt", "nov", "des"]
+    },
+    "pl-pl": {
+        "days": ["niedziela", "poniedziałek", "wtorek", "środa", "czwartek", "piątek", "sobota"],
+        "shortDays": ["nie", "pon", "wto", "śro", "czw", "pią", "sob"],
+        "months": [
+            "styczeń", "luty", "marzec", "kwiecień", "maj", "czerwiec", "lipiec",
+            "sierpień", "wrzesień", "październik", "listopad", "grudzień"
+        ],
+        "shortMonths": ["sty", "lut", "mar", "kwi", "maj", "cze", "lip", "sie", "wrz", "paź", "lis", "gru"]
+    },
+    "tr-tr": {
+        "days": ["Pazar", "Pazartesi", "Salı", "Çarşamba", "Perşembe", "Cuma", "Cumartesi"],
+        "shortDays": ["Paz", "Pzt", "Sal", "Çar", "Per", "Cum", "Cmt"],
+        "months": [
+            "Ocak", "Şubat", "Mart", "Nisan", "Mayıs", "Haziran", "Temmuz",
+            "Ağustos", "Eylül", "Ekim", "Kasım", "Aralık"
+        ],
+        "shortMonths": ["Oca", "Şub", "Mar", "Nis", "May", "Haz", "Tem", "Ağu", "Eyl", "Eki", "Kas", "Ara"]
+    },
+    "th-th": {
+        "days": ["อาทิตย์", "จันทร์", "อังคาร", "พุธ", "พฤหัสบดี", "ศุกร์", "เสาร์"],
+        "shortDays": ["อา", "จ", "อ", "พ", "พฤ", "ศ", "ส"],
+        "months": [
+            "มกราคม", "กุมภาพันธ์", "มีนาคม", "เมษายน", "พฤษภาคม", "มิถุนายน", "กรกฎาคม",
+            "สิงหาคม", "กันยายน", "ตุลาคม", "พฤศจิกายน", "ธันวาคม"
+        ],
+        "shortMonths": ["ม.ค.", "ก.พ.", "มี.ค.", "เม.ย.", "พ.ค.", "มิ.ย.", "ก.ค.", "ส.ค.", "ก.ย.", "ต.ค.", "พ.ย.", "ธ.ค."]
+    },
+    "fi-fi": {
+        "days": ["sunnuntai", "maanantai", "tiistai", "keskiviikko", "torstai", "perjantai", "lauantai"],
+        "shortDays": ["su", "ma", "ti", "ke", "to", "pe", "la"],
+        "months": [
+            "tammikuu", "helmikuu", "maaliskuu", "huhtikuu", "toukokuu", "kesäkuu", "heinäkuu",
+            "elokuu", "syyskuu", "lokakuu", "marraskuu", "joulukuu"
+        ],
+        "shortMonths": ["tammi", "helmi", "maalis", "huhti", "touko", "kesä", "heinä", "elo", "syys", "loka", "marras", "joulu"]
+    },
+    "da-dk": {
+        "days": ["søndag", "mandag", "tirsdag", "onsdag", "torsdag", "fredag", "lørdag"],
+        "shortDays": ["søn", "man", "tir", "ons", "tor", "fre", "lør"],
+        "months": [
+            "januar", "februar", "marts", "april", "maj", "juni", "juli",
+            "august", "september", "oktober", "november", "december"
+        ],
+        "shortMonths": ["jan", "feb", "mar", "apr", "maj", "jun", "jul", "aug", "sep", "okt", "nov", "dec"]
+    },
+    "el-gr": {
+        "days": ["Κυριακή", "Δευτέρα", "Τρίτη", "Τετάρτη", "Πέμπτη", "Παρασκευή", "Σάββατο"],
+        "shortDays": ["Κυρ", "Δευ", "Τρι", "Τετ", "Πεμ", "Παρ", "Σαβ"],
+        "months": [
+            "Ιανουάριος", "Φεβρουάριος", "Μάρτιος", "Απρίλιος", "Μάιος", "Ιούνιος", "Ιούλιος",
+            "Αύγουστος", "Σεπτέμβριος", "Οκτώβριος", "Νοέμβριος", "Δεκέμβριος"
+        ],
+        "shortMonths": ["Ιαν", "Φεβ", "Μαρ", "Απρ", "Μαΐ", "Ιουν", "Ιουλ", "Αυγ", "Σεπ", "Οκτ", "Νοε", "Δεκ"]
+    },
+    "hu-hu": {
+        "days": ["vasárnap", "hétfő", "kedd", "szerda", "csütörtök", "péntek", "szombat"],
+        "shortDays": ["v", "h", "k", "sze", "cs", "p", "szo"],
+        "months": [
+            "január", "február", "március", "április", "május", "június", "július",
+            "augusztus", "szeptember", "október", "november", "december"
+        ],
+        "shortMonths": ["jan", "feb", "már", "ápr", "máj", "jún", "júl", "aug", "szep", "okt", "nov", "dec"]
+    },
+    "cs-cz": {
+        "days": ["neděle", "pondělí", "úterý", "středa", "čtvrtek", "pátek", "sobota"],
+        "shortDays": ["ne", "po", "út", "st", "čt", "pá", "so"],
+        "months": [
+            "leden", "únor", "březen", "duben", "květen", "červen", "červenec",
+            "srpen", "září", "říjen", "listopad", "prosinec"
+        ],
+        "shortMonths": ["led", "úno", "bře", "dub", "kvě", "čer", "čvc", "srp", "zář", "říj", "lis", "pro"]
+    },
+    "ro-ro": {
+        "days": ["duminică", "luni", "marți", "miercuri", "joi", "vineri", "sâmbătă"],
+        "shortDays": ["dum", "lun", "mar", "mie", "joi", "vin", "sâm"],
+        "months": [
+            "ianuarie", "februarie", "martie", "aprilie", "mai", "iunie", "iulie",
+            "august", "septembrie", "octombrie", "noiembrie", "decembrie"
+        ],
+        "shortMonths": ["ian", "feb", "mar", "apr", "mai", "iun", "iul", "aug", "sep", "oct", "nov", "dec"]
+    },
+    "bg-bg": {
+        "days": ["неделя", "понеделник", "вторник", "сряда", "четвъртък", "петък", "събота"],
+        "shortDays": ["нд", "пн", "вт", "ср", "чт", "пт", "сб"],
+        "months": [
+            "януари", "февруари", "март", "април", "май", "юни", "юли",
+            "август", "септември", "октомври", "ноември", "декември"
+        ],
+        "shortMonths": ["яну", "фев", "мар", "апр", "май", "юни", "юли", "авг", "сеп", "окт", "ное", "дек"]
+    },
+    "uk-ua": {
+        "days": ["неділя", "понеділок", "вівторок", "середа", "четвер", "п’ятниця", "субота"],
+        "shortDays": ["нд", "пн", "вт", "ср", "чт", "пт", "сб"],
+        "months": [
+            "січень", "лютий", "березень", "квітень", "травень", "червень", "липень",
+            "серпень", "вересень", "жовтень", "листопад", "грудень"
+        ],
+        "shortMonths": ["січ", "лют", "бер", "квіт", "трав", "черв", "лип", "серп", "вер", "жовт", "лист", "груд"]
+    },
+    "vi-vn": {
+        "days": ["Chủ nhật", "Thứ hai", "Thứ ba", "Thứ tư", "Thứ năm", "Thứ sáu", "Thứ bảy"],
+        "shortDays": ["CN", "T2", "T3", "T4", "T5", "T6", "T7"],
+        "months": [
+            "Tháng Một", "Tháng Hai", "Tháng Ba", "Tháng Tư", "Tháng Năm", "Tháng Sáu", "Tháng Bảy",
+            "Tháng Tám", "Tháng Chín", "Tháng Mười", "Tháng Mười Một", "Tháng Mười Hai"
+        ],
+        "shortMonths": ["T1", "T2", "T3", "T4", "T5", "T6", "T7", "T8", "T9", "T10", "T11", "T12"]
+    },
+    "id-id": {
+        "days": ["Minggu", "Senin", "Selasa", "Rabu", "Kamis", "Jumat", "Sabtu"],
+        "shortDays": ["Min", "Sen", "Sel", "Rab", "Kam", "Jum", "Sab"],
+        "months": [
+            "Januari", "Februari", "Maret", "April", "Mei", "Juni", "Juli",
+            "Agustus", "September", "Oktober", "November", "Desember"
+        ],
+        "shortMonths": ["Jan", "Feb", "Mar", "Apr", "Mei", "Jun", "Jul", "Agu", "Sep", "Okt", "Nov", "Des"]
+    },
+    "ms-my": {
+        "days": ["Ahad", "Isnin", "Selasa", "Rabu", "Khamis", "Jumaat", "Sabtu"],
+        "shortDays": ["Aha", "Isn", "Sel", "Rab", "Kha", "Jum", "Sab"],
+        "months": [
+            "Januari", "Februari", "Mac", "April", "Mei", "Jun", "Julai",
+            "Ogos", "September", "Oktober", "November", "Disember"
+        ],
+        "shortMonths": ["Jan", "Feb", "Mac", "Apr", "Mei", "Jun", "Jul", "Ogo", "Sep", "Okt", "Nov", "Dis"]
+    },
+    "he-il": {
+        "days": ["יום ראשון", "יום שני", "יום שלישי", "יום רביעי", "יום חמישי", "יום שישי", "שבת"],
+        "shortDays": ["א׳", "ב׳", "ג׳", "ד׳", "ה׳", "ו׳", "ש׳"],
+        "months": [
+            "ינואר", "פברואר", "מרץ", "אפריל", "מאי", "יוני", "יולי",
+            "אוגוסט", "ספטמבר", "אוקטובר", "נובמבר", "דצמבר"
+        ],
+        "shortMonths": ["ינו", "פבר", "מרץ", "אפר", "מאי", "יונ", "יול", "אוג", "ספט", "אוק", "נוב", "דצ"]
+    },
+    "sk-sk": {
+        "days": ["nedeľa", "pondelok", "utorok", "streda", "štvrtok", "piatok", "sobota"],
+        "shortDays": ["ne", "po", "ut", "st", "št", "pi", "so"],
+        "months": [
+            "január", "február", "marec", "apríl", "máj", "jún", "júl",
+            "august", "september", "október", "november", "december"
+        ],
+        "shortMonths": ["jan", "feb", "mar", "apr", "máj", "jún", "júl", "aug", "sep", "okt", "nov", "dec"]
+    },
+    "hr-hr": {
+        "days": ["nedjelja", "ponedjeljak", "utorak", "srijeda", "četvrtak", "petak", "subota"],
+        "shortDays": ["ned", "pon", "uto", "sri", "čet", "pet", "sub"],
+        "months": [
+            "siječanj", "veljača", "ožujak", "travanj", "svibanj", "lipanj", "srpanj",
+            "kolovoz", "rujan", "listopad", "studeni", "prosinac"
+        ],
+        "shortMonths": ["sij", "vel", "ožu", "tra", "svi", "lip", "srp", "kol", "ruj", "lis", "stu", "pro"]
+    },
+    "lt-lt": {
+        "days": ["sekmadienis", "pirmadienis", "antradienis", "trečiadienis", "ketvirtadienis", "penktadienis", "šeštadienis"],
+        "shortDays": ["Sek", "Pir", "Ant", "Tre", "Ket", "Pen", "Šeš"],
+        "months": [
+            "sausis", "vasaris", "kovas", "balandis", "gegužė", "birželis", "liepa",
+            "rugpjūtis", "rugsėjis", "spalis", "lapkritis", "gruodis"
+        ],
+        "shortMonths": ["Sau", "Vas", "Kov", "Bal", "Geg", "Bir", "Lie", "Rugp", "Rugs", "Spa", "Lap", "Gru"]
+    },
+    "lv-lv": {
+        "days": ["svētdiena", "pirmdiena", "otrdiena", "trešdiena", "ceturtdiena", "piektdiena", "sestdiena"],
+        "shortDays": ["Sv", "Pr", "Ot", "Tr", "Ce", "Pk", "Se"],
+        "months": [
+            "janvāris", "februāris", "marts", "aprīlis", "maijs", "jūnijs", "jūlijs",
+            "augusts", "septembris", "oktobris", "novembris", "decembris"
+        ],
+        "shortMonths": ["Jan", "Feb", "Mar", "Apr", "Mai", "Jūn", "Jūl", "Aug", "Sep", "Okt", "Nov", "Dec"]
+    },
+    "et-ee": {
+        "days": ["pühapäev", "esmaspäev", "teisipäev", "kolmapäev", "neljapäev", "reede", "laupäev"],
+        "shortDays": ["P", "E", "T", "K", "N", "R", "L"],
+        "months": [
+            "jaanuar", "veebruar", "märts", "aprill", "mai", "juuni", "juuli",
+            "august", "september", "oktoober", "november", "detsember"
+        ],
+        "shortMonths": ["Jaan", "Veebr", "Märts", "Apr", "Mai", "Juun", "Juul", "Aug", "Sept", "Okt", "Nov", "Dets"]
+    },
+    "is-is": {
+        "days": ["sunnudagur", "mánudagur", "þriðjudagur", "miðvikudagur", "fimmtudagur", "föstudagur", "laugardagur"],
+        "shortDays": ["sun", "mán", "þri", "mið", "fim", "fös", "lau"],
+        "months": [
+            "janúar", "febrúar", "mars", "apríl", "maí", "júní", "júlí",
+            "ágúst", "september", "október", "nóvember", "desember"
+        ],
+        "shortMonths": ["jan", "feb", "mar", "apr", "maí", "jún", "júl", "ágú", "sep", "okt", "nóv", "des"]
+    },
+    "ga-ie": {
+        "days": ["Dé Domhnaigh", "Dé Luain", "Dé Máirt", "Dé Céadaoin", "Déardaoin", "Dé hAoine", "Dé Sathairn"],
+        "shortDays": ["Domh", "Luan", "Máir", "Céad", "Déar", "Aoi", "Sath"],
+        "months": [
+            "Eanáir", "Feabhra", "Márta", "Aibreán", "Bealtaine", "Meitheamh", "Iúil",
+            "Lúnasa", "Meán Fómhair", "Deireadh Fómhair", "Samhain", "Nollaig"
+        ],
+        "shortMonths": ["Ean", "Feabh", "Már", "Aib", "Beal", "Meith", "Iúil", "Lún", "MFómh", "DFómh", "Samh", "Noll"]
+    },
+    "af-za": {
+        "days": ["Sondag", "Maandag", "Dinsdag", "Woensdag", "Donderdag", "Vrydag", "Saterdag"],
+        "shortDays": ["Son", "Maan", "Dins", "Woen", "Don", "Vry", "Sat"],
+        "months": [
+            "Januarie", "Februarie", "Maart", "April", "Mei", "Junie", "Julie",
+            "Augustus", "September", "Oktober", "November", "Desember"
+        ],
+        "shortMonths": ["Jan", "Feb", "Mrt", "Apr", "Mei", "Jun", "Jul", "Aug", "Sep", "Okt", "Nov", "Des"]
+    },
+    "sw-ke": {
+        "days": ["Jumapili", "Jumatatu", "Jumanne", "Jumatano", "Alhamisi", "Ijumaa", "Jumamosi"],
+        "shortDays": ["J2", "J3", "J4", "J5", "Alh", "Ij", "J1"],
+        "months": [
+            "Januari", "Februari", "Machi", "Aprili", "Mei", "Juni", "Julai",
+            "Agosti", "Septemba", "Oktoba", "Novemba", "Desemba"
+        ],
+        "shortMonths": ["Jan", "Feb", "Mac", "Apr", "Mei", "Jun", "Jul", "Ago", "Sep", "Okt", "Nov", "Des"]
+    },
+    "tl-ph": {
+        "days": ["Linggo", "Lunes", "Martes", "Miyerkules", "Huwebes", "Biyernes", "Sabado"],
+        "shortDays": ["Lin", "Lun", "Mar", "Miy", "Huw", "Biy", "Sab"],
+        "months": [
+            "Enero", "Pebrero", "Marso", "Abril", "Mayo", "Hunyo", "Hulyo",
+            "Agosto", "Setyembre", "Oktubre", "Nobyembre", "Disyembre"
+        ],
+        "shortMonths": ["Ene", "Peb", "Mar", "Abr", "May", "Hun", "Hul", "Ago", "Set", "Okt", "Nob", "Dis"]
+    },
+    "zh-hk": {
+        "days": ["星期日", "星期一", "星期二", "星期三", "星期四", "星期五", "星期六"],
+        "shortDays": ["日", "一", "二", "三", "四", "五", "六"],
+        "months": [
+            "一月", "二月", "三月", "四月", "五月", "六月", "七月",
+            "八月", "九月", "十月", "十一月", "十二月"
+        ],
+        "shortMonths": ["1月", "2月", "3月", "4月", "5月", "6月", "7月", "8月", "9月", "10月", "11月", "12月"]
+    },
+    "ka-ge": {
+        "days": ["კვირა", "ორშაბათი", "სამშაბათი", "ოთხშაბათი", "ხუთშაბათი", "პარასკევი", "შაბათი"],
+        "shortDays": ["კვი", "ორშ", "სამ", "ოთხ", "ხუთ", "პარ", "შაბ"],
+        "months": [
+            "იანვარი", "თებერვალი", "მარტი", "აპრილი", "მაისი", "ივნისი", "ივლისი",
+            "აგვისტო", "სექტემბერი", "ოქტომბერი", "ნოემბერი", "დეკემბერი"
+        ],
+        "shortMonths": ["იან", "თებ", "მარ", "აპრ", "მაი", "ივნ", "ივლ", "აგვ", "სექ", "ოქტ", "ნოე", "დეკ"]
+    },
+    "am-et": {
+        "days": ["እሑድ", "ሰኞ", "ማክሰኞ", "ረቡዕ", "ሐሙስ", "አርብ", "ቅዳሜ"],
+        "shortDays": ["እሑ", "ሰኞ", "ማክ", "ረቡ", "ሐሙ", "አር", "ቅዳ"],
+        "months": [
+            "ጃንዩወሪ", "ፌብሩወሪ", "ማርች", "ኤፕሪል", "ሜይ", "ጁን", "ጁላይ",
+            "ኦገስት", "ሴፕቴምበር", "ኦክቶበር", "ኖቬምበር", "ዲሴምበር"
+        ],
+        "shortMonths": ["ጃን", "ፌብ", "ማር", "ኤፕ", "ሜይ", "ጁን", "ጁላ", "ኦገ", "ሴፕ", "ኦክ", "ኖቬ", "ዲሴ"]
+    },
+    "ur-pk": {
+        "days": ["اتوار", "پیر", "منگل", "بدھ", "جمعرات", "جمعہ", "ہفتہ"],
+        "shortDays": ["اتو", "پیر", "منگ", "بدھ", "جمع", "جم", "ہفت"],
+        "months": [
+            "جنوری", "فروری", "مارچ", "اپریل", "مئی", "جون", "جولائی",
+            "اگست", "ستمبر", "اکتوبر", "نومبر", "دسمبر"
+        ],
+        "shortMonths": ["جن", "فر", "مار", "اپر", "مئی", "جون", "جول", "اگ", "ستم", "اکت", "نوم", "دسم"]
+    },
+    "bn-bd": {
+        "days": ["রবিবার", "সোমবার", "মঙ্গলবার", "বুধবার", "বৃহস্পতিবার", "শুক্রবার", "শনিবার"],
+        "shortDays": ["রবি", "সোম", "মঙ্গল", "বুধ", "বৃহস্পতি", "শুক্র", "শনি"],
+        "months": [
+            "জানুয়ারি", "ফেব্রুয়ারি", "মার্চ", "এপ্রিল", "মে", "জুন", "জুলাই",
+            "আগস্ট", "সেপ্টেম্বর", "অক্টোবর", "নভেম্বর", "ডিসেম্বর"
+        ],
+        "shortMonths": ["জানু", "ফেব", "মার্চ", "এপ্র", "মে", "জুন", "জুল", "আগ", "সেপ", "অক্ট", "নভ", "ডিস"]
+    },
+    "fa-ir": {
+        "days": ["یک‌شنبه", "دوشنبه", "سه‌شنبه", "چهارشنبه", "پنج‌شنبه", "جمعه", "شنبه"],
+        "shortDays": ["یک", "دو", "سه", "چهار", "پنج", "جمعه", "شنبه"],
+        "months": [
+            "ژانویه", "فوریه", "مارس", "آوریل", "مه", "ژوئن", "ژوئیه",
+            "اوت", "سپتامبر", "اکتبر", "نوامبر", "دسامبر"
+        ],
+        "shortMonths": ["ژان", "فور", "مار", "آور", "مه", "ژوئن", "ژوئی", "اوت", "سپت", "اکت", "نوا", "دسا"]
+    },
+    "mk-mk": {
+        "days": ["недела", "понеделник", "вторник", "среда", "четврток", "петок", "сабота"],
+        "shortDays": ["нед", "пон", "вто", "сре", "чет", "пет", "саб"],
+        "months": [
+            "јануари", "февруари", "март", "април", "мај", "јуни", "јули",
+            "август", "септември", "октомври", "ноември", "декември"
+        ],
+        "shortMonths": ["јан", "фев", "мар", "апр", "мај", "јун", "јул", "авг", "сеп", "окт", "ное", "дек"]
+    },
+    "kk-kz": {
+        "days": ["жексенбі", "дүйсенбі", "сейсенбі", "сәрсенбі", "бейсенбі", "жұма", "сенбі"],
+        "shortDays": ["жек", "дүй", "сей", "сәр", "бей", "жұм", "сен"],
+        "months": [
+            "қаңтар", "ақпан", "наурыз", "сәуір", "мамыр", "маусым", "шілде",
+            "тамыз", "қыркүйек", "қазан", "қараша", "желтоқсан"
+        ],
+        "shortMonths": ["қаң", "ақп", "нау", "сәу", "мам", "мау", "шіл", "там", "қыр", "қаз", "қар", "жел"]
+    },
+    "si-lk": {
+        "days": ["ඉරිදා", "සඳුදා", "අඟහරුවාදා", "බදාදා", "බ්‍රහස්පතින්දා", "සිකුරාදා", "සෙනසුරාදා"],
+        "shortDays": ["ඉරි", "සඳු", "අඟ", "බදා", "බ්‍රහ", "සිකු", "සෙන"],
+        "months": [
+            "ජනවාරි", "පෙබරවාරි", "මාර්තු", "අප්‍රේල්", "මැයි", "ජුනි", "ජුලි",
+            "අගෝස්තු", "සැප්තැම්බර්", "ඔක්තෝබර්", "නොවැම්බර්", "දෙසැම්බර්"
+        ],
+        "shortMonths": ["ජන", "පෙබ", "මාර්", "අප්‍රේ", "මැයි", "ජුනි", "ජුලි", "අගෝ", "සැප්", "ඔක්", "නොවැ", "දෙසැ"]
+    },
+    "ta-in": {
+        "days": ["ஞாயிறு", "திங்கள்", "செவ்வாய்", "புதன்", "வியாழன்", "வெள்ளி", "சனி"],
+        "shortDays": ["ஞா", "தி", "செ", "பு", "வி", "வெ", "ச"],
+        "months": [
+            "ஜனவரி", "பிப்ரவரி", "மார்ச்", "ஏப்ரல்", "மே", "ஜூன்", "ஜூலை",
+            "ஆகஸ்ட்", "செப்டம்பர்", "அக்டோபர்", "நவம்பர்", "டிசம்பர்"
+        ],
+        "shortMonths": ["ஜன", "பிப்", "மார்", "ஏப்", "மே", "ஜூன்", "ஜூலை", "ஆக", "செப்", "அக்", "நவ", "டிச"]
+    },
+    "hy-am": {
+        "days": ["կիրակի", "երկուշաբթի", "երեքշաբթի", "չորեքշաբթի", "հինգշաբթի", "ուրբաթ", "շաբաթ"],
+        "shortDays": ["կիր", "երկ", "երք", "չոր", "հնգ", "ուրբ", "շբթ"],
+        "months": [
+            "հունվար", "փետրվար", "մարտ", "ապրիլ", "մայիս", "հունիս", "հուլիս",
+            "օգոստոս", "սեպտեմբեր", "հոկտեմբեր", "նոյեմբեր", "դեկտեմբեր"
+        ],
+        "shortMonths": ["հնվ", "փետ", "մրտ", "ապր", "մյս", "հնս", "հլս", "օգս", "սեպ", "հոկ", "նոյ", "դեկ"]
+    },
+    "eu-es": {
+        "days": ["igandea", "astelehena", "asteartea", "asteazkena", "osteguna", "ostirala", "larunbata"],
+        "shortDays": ["ig", "al", "ar", "az", "og", "ol", "lr"],
+        "months": [
+            "urtarrila", "otsaila", "martxoa", "apirila", "maiatza", "ekaina", "uztaila",
+            "abuztua", "iraila", "urria", "azaroa", "abendua"
+        ],
+        "shortMonths": ["urt", "ots", "mar", "api", "mai", "eka", "uzt", "abu", "ira", "urr", "aza", "abe"]
+    },
+    "cy-gb": {
+        "days": ["Dydd Sul", "Dydd Llun", "Dydd Mawrth", "Dydd Mercher", "Dydd Iau", "Dydd Gwener", "Dydd Sadwrn"],
+        "shortDays": ["Sul", "Llun", "Maw", "Mer", "Iau", "Gwe", "Sad"],
+        "months": [
+            "Ionawr", "Chwefror", "Mawrth", "Ebrill", "Mai", "Mehefin", "Gorffennaf",
+            "Awst", "Medi", "Hydref", "Tachwedd", "Rhagfyr"
+        ],
+        "shortMonths": ["Ion", "Chw", "Maw", "Ebr", "Mai", "Meh", "Gor", "Aws", "Med", "Hyd", "Tach", "Rhag"]
+    },
+    "mn-mn": {
+        "days": ["Ням", "Даваа", "Мягмар", "Лхагва", "Пүрэв", "Баасан", "Бямба"],
+        "shortDays": ["Ня", "Да", "Мя", "Лх", "Пү", "Ба", "Бя"],
+        "months": [
+            "Нэгдүгээр сар", "Хоёрдугаар сар", "Гуравдугаар сар", "Дөрөвдүгээр сар", "Тавдугаар сар", "Зургаадугаар сар",
+            "Долоодугаар сар", "Наймдугаар сар", "Есдүгээр сар", "Аравдугаар сар", "Арваннэгдүгээр сар", "Арванхоёрдугаар сар"
+        ],
+        "shortMonths": ["1-р сар", "2-р сар", "3-р сар", "4-р сар", "5-р сар", "6-р сар", "7-р сар", "8-р сар", "9-р сар", "10-р сар", "11-р сар", "12-р сар"]
+    },
+    "gl-es": {
+        "days": ["domingo", "luns", "martes", "mércores", "xoves", "venres", "sábado"],
+        "shortDays": ["dom", "lun", "mar", "mér", "xov", "ven", "sáb"],
+        "months": [
+            "xaneiro", "febreiro", "marzo", "abril", "maio", "xuño", "xullo",
+            "agosto", "setembro", "outubro", "novembro", "decembro"
+        ],
+        "shortMonths": ["xan", "feb", "mar", "abr", "mai", "xuñ", "xul", "ago", "set", "out", "nov", "dec"]
+    },
+    "mi-nz": {
+        "days": ["Rātapu", "Rāhina", "Rātū", "Rāapa", "Rāpare", "Rāmere", "Rāhoroi"],
+        "shortDays": ["Tapu", "Hina", "Tū", "Apa", "Pare", "Mere", "Horo"],
+        "months": [
+            "Kohi-tātea", "Hui-tanguru", "Poutū-te-rangi", "Paenga-whāwhā", "Haratua", "Pipiri", "Hōngongoi",
+            "Here-turi-kōkā", "Mahuru", "Whiringa-ā-nuku", "Whiringa-ā-rangi", "Hakihea"
+        ],
+        "shortMonths": ["Kohi", "Hui", "Pou", "Pae", "Hara", "Pipi", "Hōngo", "Here", "Mahu", "Whi-nu", "Whi-ra", "Haki"]
+    },
+    "iu-ca": {
+        "days": ["Naayuq", "Naala", "Niqsiq", "Piqsiq", "Sikkuq", "Tallimmaq", "Sunniaqsarvik"],
+        "shortDays": ["Nay", "Naa", "Niq", "Piq", "Sik", "Tal", "Sun"],
+        "months": [
+            "Januali", "Febuali", "Mars", "Aprili", "Mait", "Jun", "Julai",
+            "Aukusit", "Saptembar", "Aktupur", "Novembar", "Tisambar"
+        ],
+        "shortMonths": ["Jan", "Feb", "Mar", "Apr", "Mai", "Jun", "Jul", "Aug", "Sep", "Okt", "Nov", "Tis"]
+    },
+    "gn-py": {
+        "days": ["Arateĩ", "Arakõi", "Araapy", "Ararundy", "Arapo", "Arapoteĩ", "Arapokõi"],
+        "shortDays": ["Teĩ", "Koĩ", "Apy", "Run", "Apo", "Poĩ", "Pok"],
+        "months": [
+            "Jasyteĩ", "Jasykõi", "Jasypa", "Jasyrundy", "Jasypo", "Jasypoteĩ", "Jasypokõi",
+            "Jasyporundy", "Jasypaapy", "Jasypaapyteĩ", "Jasypaapykõi", "Jasyapy"
+        ],
+        "shortMonths": ["Teĩ", "Koĩ", "Pa", "Run", "Po", "Poĩ", "Pok", "Rund", "Aap", "Ap-T", "Ap-K", "Apy"]
+    },
+    "kl-gl": {
+        "days": ["Sapaat", "Ataasinngorneq", "Marlunngorneq", "Pingasunngorneq", "Sisamanngorneq", "Tallimanngorneq", "Arfininngorneq"],
+        "shortDays": ["Sap", "Ata", "Mar", "Pin", "Sis", "Tal", "Arf"],
+        "months": [
+            "Januari", "Februari", "Marsi", "Apriili", "Maaji", "Juuni", "Juuli",
+            "Aggusti", "Septembari", "Oktobari", "Novembari", "Decembari"
+        ],
+        "shortMonths": ["Jan", "Feb", "Mar", "Apr", "Maj", "Jun", "Jul", "Aug", "Sep", "Okt", "Nov", "Dec"]
+    },
+    "haw-us": {
+        "days": ["Lāpule", "Pōʻakahi", "Pōʻalua", "Pōʻakolu", "Pōʻahā", "Pōʻalima", "Pōʻaono"],
+        "shortDays": ["LP", "P1", "P2", "P3", "P4", "P5", "PA"],
+        "months": [
+            "Ianuali", "Pepeluali", "Malaki", "ʻApelila", "Mei", "Iune", "Iulai",
+            "ʻAukake", "Kepakemapa", "ʻOkakopa", "Nowemapa", "Kekemapa"
+        ],
+        "shortMonths": ["Ian", "Pep", "Mal", "ʻAp", "Mei", "Iun", "Iul", "ʻAu", "Kep", "ʻOk", "Now", "Kek"]
+    },
+    "tt-ru": {
+        "days": ["якшәмбе", "дүшәмбе", "сишәмбе", "чәршәмбе", "пәнҗешәмбе", "җомга", "шимбә"],
+        "shortDays": ["якш", "дүш", "сиш", "чәр", "пән", "җом", "шим"],
+        "months": [
+            "гыйнвар", "февраль", "март", "апрель", "май", "июнь", "июль",
+            "август", "сентябрь", "октябрь", "ноябрь", "декабрь"
+        ],
+        "shortMonths": ["гыйн", "фев", "мар", "апр", "май", "июн", "июл", "авг", "сен", "окт", "ноя", "дек"]
+    },
+    "qu-pe": {
+        "days": ["Intichaw", "Killachaw", "Atipachaw", "Chʼaskachaw", "Illapachaw", "Chʼaskachay", "Kuychichaw"],
+        "shortDays": ["Int", "Kil", "Ati", "Chʼa", "Ill", "Chʼy", "Kuy"],
+        "months": [
+            "Qhulla puquy", "Pachaqama", "Pachachka", "Tawantinsuyu", "Hatunpuquy", "Hatun intiqray", "Hatun yapay",
+            "Waraq qallariy", "Aymuray", "Santaray", "Qhapaq raymi", "Willka raymi"
+        ],
+        "shortMonths": ["Qhll", "Pach", "Pchk", "Tawa", "Hpuq", "Hinq", "Hyap", "Wara", "Aym", "Sant", "Qhap", "Will"]
+    },
+    "dv-mv": {
+        "days": ["އާދިއްތަ", "ހޯމަ", "އަންގާރަ", "ބުދަ", "ބުރާސްފަތި", "ހުކުރު", "ހޮނިހިރު"],
+        "shortDays": ["އާދ", "ހޯމ", "އަން", "ބުދ", "ބުރ", "ހުކ", "ހޮނ"],
+        "months": [
+            "ޖެނުއަރީ", "ފެބުރުއަރީ", "މާރޗް", "އޭޕްރީލު", "މެއީ", "ޖޫން", "ޖޫލައި",
+            "އޯގަސްޓު", "ސެޕްޓެމްބަރު", "އޮކްޓޯބަރު", "ނޮވެމްބަރު", "ޑިސެމްބަރު"
+        ],
+        "shortMonths": ["ޖެނ", "ފެބ", "މާރ", "އޭޕް", "މެއީ", "ޖޫނ", "ޖޫލައި", "އޯގ", "ސެޕް", "އޮކ", "ނޮވ", "ޑިސ"]
+    },
+    "chr-us": {
+        "days": ["ᎤᎾᎵᎢᎦ", "ᏔᎵᏁᎢᎦ", "ᏦᎢᎦ", "ᏦᎵᏙᏂᎢᎦ", "ᏅᎩᎶᏍᏗ", "ᏧᏕᎳᎪᎢᎦ", "ᏦᎪᎢᎦ"],
+        "shortDays": ["ᎤᎾ", "ᏔᎵ", "ᏦᎢ", "ᏦᎵ", "ᏅᎩ", "ᏧᏕ", "ᏦᎪ"],
+        "months": [
+            "ᎤᏃᎸᏔᎢ", "ᎧᎦᎵ", "ᎠᏅᎢ", "ᎧᎶᏂᎯ", "ᎠᏅᏙᎢ", "ᏕᎪᎯ", "ᎫᎵᏏ", 
+            "ᏅᎩᎩᎢ", "ᎤᏕᎵ", "ᏃᎩᎵ", "ᎠᏂᏛᏉᏂᏙᏕᎢ", "ᎦᎶᎯᏍᏗ"
+        ],
+        "shortMonths": ["ᎤᏃ", "ᎧᎦ", "ᎠᏅ", "ᎧᎶ", "ᎠᏅ", "ᏕᎪ", "ᎫᎵ", "ᏅᎩ", "ᎤᏕ", "ᏃᎩ", "ᎠᏂ", "ᎦᎶ"]
+    },
+    "yo-ng": {
+        "days": ["Ọjọ́ Àìkú", "Ọjọ́ Ajé", "Ọjọ́ Ìsẹ́gun", "Ọjọ́rú", "Ọjọ́bọ̀", "Ọjọ́ Ẹtì", "Ọjọ́ Àbámẹ́ta"],
+        "shortDays": ["Àìk", "Ajé", "Ìsẹ", "Ọjọ́", "Ọbọ", "Ẹtì", "Àbá"],
+        "months": [
+            "Ṣẹ́rẹ́", "Èrèlé", "Ẹrẹ̀nà", "Ìgbé", "Ẹ̀bibi", "Òkúdu", "Agẹmọ",
+            "Ògún", "Owewe", "Ọ̀wàrà", "Bélú", "Ọ̀pẹ̀"
+        ],
+        "shortMonths": ["Ṣẹ́", "Èr", "Ẹr", "Ìgb", "Ẹ̀b", "Òk", "Ag", "Òg", "Ow", "Ọ̀w", "Bé", "Ọ̀p"]
+    }
+}
